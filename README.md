@@ -6,3 +6,5 @@ This is a basic application that shows the use of the django-rest-framework. you
 > Application programming interfaces 
 
 > serializers
+
+> Web development
