@@ -6,6 +6,6 @@ This is a basic application that shows the use of the django-rest-framework (DRF
 
 - Application programming interfaces 
 
-> serializers
+- serializers
 
-> Web development
+- Web development
