@@ -4,7 +4,7 @@ This is a basic application that shows the use of the django-rest-framework (DRF
 
 - covered intro to django framework
 
-> Application programming interfaces 
+- Application programming interfaces 
 
 > serializers
 
