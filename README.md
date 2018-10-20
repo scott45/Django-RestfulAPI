@@ -8,4 +8,4 @@ This is a basic application that shows the use of the django-rest-framework (DRF
 
 - serializers
 
-- Web development
+- Web development / microservices
